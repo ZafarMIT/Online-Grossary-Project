@@ -1,0 +1,59 @@
+
+body {
+  padding-top: 56px;
+/*   background-color:;  not working chk login.jsp */
+}
+
+.btn-info, .btn-primary
+{
+	margin-left:40px;
+}
+
+.padding-4 { /* contactUs */
+	padding: 0px 120px;
+    background-color:skyblue;
+    margin:0px;
+}
+
+.padding-2 {
+	padding: 0px 20px;
+}
+
+.padding-5
+{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  
+}
+
+.padding-6
+{
+  padding-top: 20px;
+  padding-bottom: 170px;
+}
+
+.padding-7
+{
+  padding-top: 20px;
+  padding-bottom: 220px;
+}
+
+.padding-8
+{
+  padding-top: 20px;
+  padding-bottom: 350px;
+}
+
+table
+{
+  border:1px solid black;
+  outline:5px solid navy; 
+  margin:20px;
+  margin-left:auto; margin-right:auto;
+}
+
+.table2
+{
+  margin:20px;
+  margin-left:auto; margin-right:auto;
+}
